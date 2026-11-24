@@ -1,0 +1,2 @@
+# O TechLab usa apenas a biblioteca padrão do Python 3.10+ (sqlite3, csv, unittest...).
+# Nenhuma dependência externa é necessária.
